@@ -9,6 +9,15 @@ var getUserRepos = function(user) {
   
     // make a get request to url
     fetch(apiUrl).then(function(response) {
+      if (response.ok) {
+        response.json().then(function(data) {
+            displayRepos(data, user);
+        });
+      }
+      else {
+        alert("Error: GitHub User Not Found");
+      }
+      
       console.log(response);
       response.json().then(function(data) {
         displayRepos(data, user);
