@@ -8,8 +8,15 @@
 
 ## Built With
 
+* HTML
+* CSS 
+* JavaScript
+
 ## Website
 
+ https://laceyaguigam.github.io/git-it-done/
+
+ 
 
 ## Contributions
  
