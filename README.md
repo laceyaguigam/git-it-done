@@ -19,7 +19,9 @@ Open the Get It Done folder in vs code or with any coding software and open the 
 
  https://laceyaguigam.github.io/git-it-done/
 
- 
+ <img width="1728" alt="Screenshot 2023-02-20 at 12 32 45 PM" src="https://user-images.githubusercontent.com/105749016/220254579-367fdc1d-9d95-4cc3-8db1-1b60221be94f.png">
+
+<img width="1728" alt="Screenshot 2023-02-20 at 12 32 56 PM" src="https://user-images.githubusercontent.com/105749016/220254602-cb8e30e2-2e59-4e3f-94e0-cc275da07f75.png">
 
 ## Contributions
  
