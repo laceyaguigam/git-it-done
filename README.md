@@ -1,7 +1,7 @@
 # Git It Done
 
 ## Purpose
-
+Open source projects are a great way to continue building your coding skills and adding more projects to your portfolio. Open source projects are not always easy to find so why not fix that by creating our own web app. The following project is a web application that can be used to find open source projects on Github by searching usernames. 
 ## Installation
 
 Clone the source code for Get It Done from the Get It Done repository and save to desired location. The source code can then be used in your desired coding software.
